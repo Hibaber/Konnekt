@@ -1,6 +1,5 @@
 
-![2022-03-26 18 41 08](https://user-images.githubusercontent.com/86075066/160418573-21c79a26-9230-4fff-bae2-c535a14c39a7.gif)
-![2022-03-26 18 26 06](https://user-images.githubusercontent.com/86075066/160420272-cb74b43c-ede3-474a-a0f3-24370f95e2a5.gif)
+
 
 Register and create your account or use the following one for testing purposes
 Login
@@ -88,4 +87,9 @@ Front-end endpoints
 | `GET`    | `/usuario/material/libros`                         | Brings all the books in DB              |
 | `GET`    | `/usuario/material/coworking`                      | Brings all the coworking places in DB   |
 | `GET`    | `/usuario/getUserById/:id`                         | Allows to check other users profile     |
+
+
+![2022-03-26 18 41 08](https://user-images.githubusercontent.com/86075066/160418573-21c79a26-9230-4fff-bae2-c535a14c39a7.gif)
+![2022-03-26 18 26 06](https://user-images.githubusercontent.com/86075066/160420272-cb74b43c-ede3-474a-a0f3-24370f95e2a5.gif)
+
 # Konnekt
