@@ -41,12 +41,19 @@ npm install
 Client Usage
 npm start
 
-Technologies
+Technologies used:
+
+
 React - Hooks
+
 MongoDB
+
 Express
+
 Node
+
 Javascript (ES6)
+
 HTML & CSS
 
 Additional info
