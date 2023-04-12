@@ -1,4 +1,7 @@
 
+Description
+Connekt(SPA) is an online application for networking that allows entrepreneurs to build a community and share events.
+
 
 
 Register and create your account or use the following one for testing purposes
@@ -6,10 +9,11 @@ Register and create your account or use the following one for testing purposes
 
 Login
 email: ofek@hotmail.com
+
+
 password: 123
 
-Description
-Connekt(SPA) is an online application for networking that allows entrepreneurs to build a community and share events.
+
 
 Server Install
 npm install
