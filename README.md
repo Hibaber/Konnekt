@@ -2,12 +2,14 @@
 
 
 Register and create your account or use the following one for testing purposes
+
+
 Login
 email: ofek@hotmail.com
 password: 123
 
 Description
-Connekt(SPA) is an online dating application. The profiles propose ideal romantic dates. Users can "swipe left" to reject a candidate or selects a date and to play to guess a truth and a lie proposed by the profile. In order to talk to that person, the lie must be guess.
+Connekt(SPA) is an online application for networking that allows entrepreneurs to build a community and share events.
 
 Server Install
 npm install
