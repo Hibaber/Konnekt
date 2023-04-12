@@ -56,9 +56,6 @@ Javascript (ES6)
 
 HTML & CSS
 
-Additional info
-
-This project has been developed by Hiba Berber and Laura Del Valle as the final project of Ironhack's Web Development Bootcamp
 
 Backend endpoints
 
